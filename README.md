@@ -1,5 +1,6 @@
 # picture_search
 
+A progressive web app that searches and downloads pictures from pexels.com
 ## Project setup
 ```
 npm install
