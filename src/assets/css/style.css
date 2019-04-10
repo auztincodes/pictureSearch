@@ -1,0 +1,21 @@
+.bg{
+    background: url(../images/bg-home.jpg) no-repeat 0 0;
+    background-size: cover;
+    height: 600px;
+}
+/*-- nav --*/
+ 
+    h1 a.navbar-brand {
+    font-size: 20px;
+    color: #fff !important;
+    text-transform: capitalize;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0em;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light {
+    background:transparent;
+    }
+    
